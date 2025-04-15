@@ -11,39 +11,39 @@ In this video, I analyzed a given restaurant dataset to explore insights on:
 2. Determine if certain cuisines combinations tend to have higher ratings.
 
 <h2>🔹 Key Insights: </h2>
-After performing a thorough analysis, here are the findings:
-1. The most common combinations of Cuisines in the dataset are: 
-- North Indian: 936
-- North Indian, Chinese: 511
-- Chinese: 354
-- Fast Food: 354
-- North Indian, Mughlai: 334
-- ...
-- Bengali, Fast Food: 1
-- North Indian, Rajasthani, Asian: 1
-- Chinese, Thai, Malaysian, Indonesian: 1
-- Bakery, Desserts, North Indian, Bengali, South Indian: 1
-- Italian, World Cuisine: 1.
+After performing a thorough analysis, here are the findings:<br>
+1. The most common combinations of Cuisines in the dataset are: <br>
+- North Indian: 936<br>
+- North Indian, Chinese: 511<br>
+- Chinese: 354<br>
+- Fast Food: 354<br>
+- North Indian, Mughlai: 334<br>
+- ...<br>
+- Bengali, Fast Food: 1<br>
+- North Indian, Rajasthani, Asian: 1<br>
+- Chinese, Thai, Malaysian, Indonesian: 1<br>
+- Bakery, Desserts, North Indian, Bengali, South Indian: 1<br>
+- Italian, World Cuisine: 1<br><br>
 
-2. The Top 10 most common cuisine combinations with higher average ratings are: 
+2. The Top 10 most common cuisine combinations with higher average ratings are: <br>
 
-Cuisine Combination | No_of_Cuisine | Average Rating 
-0 North Indian | 936 | 1.67 
-1 North Indian, Chinese | 511 | 2.42 
-2 Chinese | 354 | 2.04 
-3 Fast Food | 354 | 2.12 
-4 North Indian, Mughlai | 334 | 2.89 
-5 Cafe | 299 | 2.89 
-6 Bakery | 218 | 1.92 
-7 North Indian, Mughlai, Chinese | 197 2.57 
-8 Bakery, Desserts | 170 | 2.32 
-9 Street Food | 149 | 2.16 
+Cuisine Combination | No_of_Cuisine | Average Rating <br>
+0 North Indian | 936 | 1.67 <br>
+1 North Indian, Chinese | 511 | 2.42 <br>
+2 Chinese | 354 | 2.04 <br>
+3 Fast Food | 354 | 2.12 <br>
+4 North Indian, Mughlai | 334 | 2.89 <br>
+5 Cafe | 299 | 2.89 <br>
+6 Bakery | 218 | 1.92 <br>
+7 North Indian, Mughlai, Chinese | 197 2.57 <br>
+8 Bakery, Desserts | 170 | 2.32 <br>
+9 Street Food | 149 | 2.16 <br>
 
-Thus, I completed the Task-2 of Level-2 in the Data Analysis Internship Program.
+Thus, I completed the Task-2 of Level-2 in the Data Analysis Internship Program.<br>
 
-<h2>🛠️Tools & Technologies Used:</h2>
+<h2>🛠️Tools & Technologies Used:</h2><br>
 
-To achieve this Task2 of level 2, I used the following tools and technologies:
+To achieve this Task2 of level 2, I used the following tools and technologies:<br>
 
 1. Python – used as a programming language for data analysis
 2. NumPy – used for efficient numerical computations
