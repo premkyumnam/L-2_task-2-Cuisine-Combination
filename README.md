@@ -1,8 +1,10 @@
-# L-2_task-2-Cuisine-Combination
+<html>
+  <body>
+    <h1> #L-2_task-2-Cuisine-Combinations</h1>
 
-I'm excited to share my Task-2 (Level 2): CUISINE COMBINATIONS in the Data Analysis Internship Program with Cognifyz Technologies!
+🚀I'm excited to share my Task-2 (Level 2): CUISINE COMBINATIONS in the Data Analysis Internship Program with Cognifyz Technologies!
 
-🔹Project Overview:
+<h1>🔹Project Overview:</h1>
 
 In this video, I analyzed a given restaurant dataset to explore insights on:
 1. Identify the most common combinations of cuisines in the dataset and
@@ -55,9 +57,12 @@ These tools enabled me to effectively extract insights and meaning from the data
 Explore the full project on LinkedIn and GitHub:<br>
 ▶️ [(https://www.linkedin.com/feed/update/urn:li:activity:7316539760322191360/)<br>](https://www.linkedin.com/feed/update/urn:li:activity:7317217856398446592/)
 
-I hope this will be very helpful to new learners and students.
-And I'd love to hear your thoughts and feedback!
-Let's connect and explore more data-driven insights together.
+<p>I hope this will be very helpful to new learners and students. <br>
+And I'd love to hear your thoughts and feedback! <br>
+Let's connect and explore more data-driven insights together. <br><br>
 Thank you all!
 
-<b>(YUMNAM PREMKUMAR SINGH)</b>
+  <b>(YUMNAM PREMKUMAR SINGH)</b>
+</p>
+</body>
+</html>
