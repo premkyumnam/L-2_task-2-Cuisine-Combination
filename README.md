@@ -140,9 +140,9 @@ To achieve this Task2 of level 2, I used the following tools and technologies:<b
 6. Jupyter Notebook (Primary IDE) - used for writing and executing code.
 
 These tools enabled me to effectively extract insights and meaning from the data.<br><br>
-🎉 I'm grateful for the opportunity to work on this project and sharpen my data analysis skills. <br>Thank you to Cognifyz Technologies for this amazing learning experience! I'm excited to continue growing and taking on new challenges.<br>
+🎉 I'm grateful for the opportunity to work on this project and sharpen my data analysis skills. <br>Thank you to Cognifyz Technologies for this amazing learning experience! I'm excited to continue growing and taking on new challenges.<br><br>
 Explore the full project on LinkedIn and GitHub:<br>
-▶️ [(https://www.linkedin.com/feed/update/urn:li:activity:7316539760322191360/)<br>](https://www.linkedin.com/feed/update/urn:li:activity:7317217856398446592/)
+▶️ [(https://www.linkedin.com/feed/update/urn:li:activity:7316539760322191360/)<br>](https://www.linkedin.com/feed/update/urn:li:activity:7317217856398446592/)<br>
 
 <p>I hope this will be very helpful to new learners and students. <br>
 And I'd love to hear your thoughts and feedback! <br>
