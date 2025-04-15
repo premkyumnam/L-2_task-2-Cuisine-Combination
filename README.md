@@ -1,16 +1,16 @@
 <html>
   <body>
-    <h1> #L-2_task-2-Cuisine-Combinations</h1>
+    <h1> Task-2(Level2): Cuisine-Combinations</h1>
 
 🚀I'm excited to share my Task-2 (Level 2): CUISINE COMBINATIONS in the Data Analysis Internship Program with Cognifyz Technologies!
 
-<h1>🔹Project Overview:</h1>
+<h2>🔹Project Overview:</h2>
 
 In this video, I analyzed a given restaurant dataset to explore insights on:
 1. Identify the most common combinations of cuisines in the dataset and
 2. Determine if certain cuisines combinations tend to have higher ratings.
 
-🔹 Key Insights: 
+<h2>🔹 Key Insights: </h2>
 After performing a thorough analysis, here are the findings:
 1. The most common combinations of Cuisines in the dataset are: 
 - North Indian: 936
@@ -41,7 +41,7 @@ Cuisine Combination | No_of_Cuisine | Average Rating
 
 Thus, I completed the Task-2 of Level-2 in the Data Analysis Internship Program.
 
-🛠️Tools & Technologies Used:
+<h2>🛠️Tools & Technologies Used:</h2>
 
 To achieve this Task2 of level 2, I used the following tools and technologies:
 
